@@ -19,4 +19,10 @@ public class Calculator {
     public String manju(){
         return "mmd";
     }
+
+    public String SecondCgange(){
+        return  "manj ";
+    }
+
+
 }
