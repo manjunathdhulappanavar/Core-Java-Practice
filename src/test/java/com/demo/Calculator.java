@@ -20,9 +20,7 @@ public class Calculator {
         return "mmd";
     }
 
-    public String SecondCgange(){
-        return  "manj ";
-    }
+
 
 
 }
