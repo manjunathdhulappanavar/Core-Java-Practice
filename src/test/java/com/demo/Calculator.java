@@ -15,4 +15,8 @@ public class Calculator {
     public Boolean compareTwoNums(int a, int b) {
         return a == b;
     }
+
+    public String manju(){
+        return "";
+    }
 }
