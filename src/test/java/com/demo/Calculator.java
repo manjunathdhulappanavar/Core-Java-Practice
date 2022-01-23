@@ -17,6 +17,6 @@ public class Calculator {
     }
 
     public String manju(){
-        return "";
+        return "mmd";
     }
 }
